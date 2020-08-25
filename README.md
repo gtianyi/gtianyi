@@ -33,6 +33,6 @@ I become a research scientist by following my passion for AI.
 </p>
 
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact&hide_border=true)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact&hide_border=true&hide=GLSL,PostScript,Fortran,go)
 
 
