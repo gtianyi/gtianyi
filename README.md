@@ -8,13 +8,7 @@ I become a research scientist by following my passion for AI.
 [![Web](https://img.shields.io/website?url=https%3A%2F%2Fwww.cs.unh.edu%2F~tg1034%2F)](https://www.cs.unh.edu/~tg1034/)
 
 **Languages and Tools:** 
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-
-<p>
-   
+<p>   
   <a href="https://www.cs.unh.edu/~tg1034/">
   <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=gtianyi&show_icons=true&hide_border=true&count_private=true&hide=stars,issues" />
    <!-- Your languages and tools. Be careful with the alignment. 
@@ -38,6 +32,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br>
 </p>
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact&hide_border=true)
+[top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact&hide_border=true)
 
 
