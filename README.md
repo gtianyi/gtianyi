@@ -34,6 +34,4 @@ I become a research scientist by following my passion for AI.
   <img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?gtianyi">
 </p>
 
-![Top Languages](https://ionicabizau.github.io/github-profile-languages/api.html?gtianyi)
-
 
