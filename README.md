@@ -15,7 +15,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <table border="0">
  <tr> 
    <td>
-  <code><img width="50%" src="https://uapprojectschool.files.wordpress.com/2015/11/devc.png"></code>
+  <code><img width="10%" src="https://uapprojectschool.files.wordpress.com/2015/11/devc.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />  
