@@ -13,7 +13,7 @@ I become a research scientist by following my passion for AI.
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://www.cs.unh.edu/~tg1034/">
     <img width="55%" align="right" alt="Tianyi's github stats" src="https://github-readme-stats.vercel.app/api?username=gtianyi&show_icons=true&hide_border=true" />
   </a>
   
