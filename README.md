@@ -16,7 +16,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <p>
    
   <a href="https://www.cs.unh.edu/~tg1034/">
-     <img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi" />
+  <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=gtianyi&show_icons=true&hide_border=true&count_private=true&hide=stars,issues" />
    <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
@@ -38,6 +38,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br>
 </p>
 
-![Tianyi's github stats](https://github-readme-stats.vercel.app/api?username=gtianyi&show_icons=true&hide_border=true&count_private=true&hide=stars,issues)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi)
 
 
