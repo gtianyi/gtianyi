@@ -32,7 +32,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://uapprojectschool.files.wordpress.com/2015/11/devc.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://cdn.iconscout.com/icon/free/png-512/jenkins-282182.png"></code>
+  <code><img width="10%" src="https://cdn.freebiesupply.com/logos/large/2x/jenkins-logo-png-transparent.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
