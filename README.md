@@ -12,7 +12,11 @@ I become a research scientist by following my passion for AI.
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<table border="0">
+<table style="width: 100%">
+ <colgroup>
+       <col span="1" style="width: 50%;">
+       <col span="1" style="width: 50%;">
+    </colgroup>
  <tr> 
    <td>
   <code><img width="10%" src="https://uapprojectschool.files.wordpress.com/2015/11/devc.png"></code>
