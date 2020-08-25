@@ -30,8 +30,6 @@ I become a research scientist by following my passion for AI.
   <code><img width="10%" src="https://www.fullstackpython.com/img/logos/zsh.jpg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <br>
-    
-  <img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?gtianyi">
 </p>
 
 
