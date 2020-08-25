@@ -38,8 +38,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.fullstackpython.com/img/logos/zsh.jpg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <br>
-  <a href="https://www.cs.unh.edu/~tg1034/">
-    <img width="35%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact" />
-  </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact)](https://www.cs.unh.edu/~tg1034/)
 
