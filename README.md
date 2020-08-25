@@ -38,6 +38,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br>
 </p>
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact)
 
 
