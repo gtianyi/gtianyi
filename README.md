@@ -37,7 +37,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    </td>
    <td>
      <a href="https://www.cs.unh.edu/~tg1034/">
-     <img width="100%" alt="Tianyi's github stats" src="https://github-readme-stats.vercel.app/api?     username=gtianyi&show_icons=true&hide_border=true&count_private=true&hide=stars,issues" />
+     <img width="100%" alt="Tianyi's github stats" src="https://github-readme-stats.vercel.app/api/?username=gtianyi&show_icons=true&hide_border=true&count_private=true&hide=stars,issues" />
   </a>
   <a href="https://www.cs.unh.edu/~tg1034/">
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact" />
