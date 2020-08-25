@@ -13,8 +13,12 @@ I become a research scientist by following my passion for AI.
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
  <tr>
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
    <td>
-   <code><img width="10%" src="https://uapprojectschool.files.wordpress.com/2015/11/devc.png"></code>
+  <code><img width="10%" src="https://uapprojectschool.files.wordpress.com/2015/11/devc.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />  
@@ -32,7 +36,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
    </td>
    <td>
      <a href="https://www.cs.unh.edu/~tg1034/">
-    <img width="50%" alt="Tianyi's github stats" src="https://github-readme-stats.vercel.app/api?username=gtianyi&show_icons=true&hide_border=true&count_private=true&hide=stars,issues" />
+     <img width="50%" alt="Tianyi's github stats" src="https://github-readme-stats.vercel.app/api?     username=gtianyi&show_icons=true&hide_border=true&count_private=true&hide=stars,issues" />
   </a>
   <a href="https://www.cs.unh.edu/~tg1034/">
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact" />
