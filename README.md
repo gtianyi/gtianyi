@@ -12,6 +12,7 @@ I become a research scientist by following my passion for AI.
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
+<table border="0">
  <tr>
  <tr>
     <td><b style="font-size:30px">Title</b></td>
