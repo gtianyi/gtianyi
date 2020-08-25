@@ -7,6 +7,7 @@ I become a research scientist by following my passion for AI.
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gu@cs.unh.edu)
 [![Web](https://img.shields.io/website?url=https%3A%2F%2Fwww.cs.unh.edu%2F~tg1034%2F)](https://www.cs.unh.edu/~tg1034/)
 
+Column 1
 **Languages and Tools:** 
 
 <!-- Your github readme stats
@@ -14,12 +15,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 
 <p>
-  <a href="https://www.cs.unh.edu/~tg1034/">
-    <img width="55%" align="right" alt="Tianyi's github stats" src="https://github-readme-stats.vercel.app/api?username=gtianyi&show_icons=true&hide_border=true&count_private=true&hide=stars,issues" />
-  </a>
-  
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
+   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://uapprojectschool.files.wordpress.com/2015/11/devc.png"></code>
@@ -40,5 +36,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact)](https://www.cs.unh.edu/~tg1034/)
+Column 2
+ <a href="https://www.cs.unh.edu/~tg1034/">
+    <img width="55%" align="right" alt="Tianyi's github stats" src="https://github-readme-stats.vercel.app/api?username=gtianyi&show_icons=true&hide_border=true&count_private=true&hide=stars,issues" />
+  </a>
+![Tianyi's github stats](https://github-readme-stats.vercel.app/api?username=gtianyi&show_icons=true&hide_border=true&count_private=true&hide=stars,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact)
 
