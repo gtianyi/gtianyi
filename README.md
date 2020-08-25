@@ -7,9 +7,6 @@ I become a research scientist by following my passion for AI.
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gu@cs.unh.edu)
 [![Web](https://img.shields.io/website?url=https%3A%2F%2Fwww.cs.unh.edu%2F~tg1034%2F)](https://www.cs.unh.edu/~tg1034/)
 
-&nbsp;
-
-
 **Languages and Tools:** 
 
 <!-- Your github readme stats
