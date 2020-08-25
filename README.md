@@ -17,6 +17,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
        <col span="1" style="width: 50%;">
        <col span="1" style="width: 50%;">
     </colgroup>
+ <tbody>
  <tr> 
    <td>
   <code><img width="10%" src="https://uapprojectschool.files.wordpress.com/2015/11/devc.png"></code>
@@ -44,6 +45,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a>
    </td>
  </tr>
+</tbody>
 </table>
 <!--<p>
   <a href="https://www.cs.unh.edu/~tg1034/">
