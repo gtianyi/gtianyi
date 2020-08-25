@@ -30,9 +30,8 @@ I become a research scientist by following my passion for AI.
   <code><img width="10%" src="https://www.fullstackpython.com/img/logos/zsh.jpg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <br>
+    
+  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?gtianyi" frameborder="0"></iframe>
 </p>
-
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact&hide_border=true&hide=GLSL,PostScript,Fortran)
 
 
