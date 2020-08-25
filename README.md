@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hey Guys, 👋
 
-I am Tianyi Gu - Computer Science PhD Candidate at the University of New Hampshire, US. Become a research scientist by following my passion for AI. 
+I am Tianyi Gu - A Computer Science PhD Candidate at the University of New Hampshire, US. 
+I become a research scientist by following my passion for AI. 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gutianyi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gu@cs.unh.edu)
