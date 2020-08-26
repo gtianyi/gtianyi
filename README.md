@@ -31,5 +31,5 @@ I become a research scientist by following my passion for AI.
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <br>
 </p>
-
-
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtianyi&layout=compact)
