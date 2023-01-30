@@ -1,6 +1,6 @@
 ### Welcome Guys! 👋
 
-I am Tianyi Gu - A Research Scientist at Argo AI, US.   
+I am Tianyi Gu - A Research Scientist at Motional, US.   
 I become a research scientist by following my passion for AI. 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gutianyi/)
