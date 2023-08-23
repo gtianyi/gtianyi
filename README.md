@@ -10,7 +10,7 @@ I became a research scientist by following my passion for AI and Robotics.
 **Languages and Tools:** 
 <p>   
   <a href="https://gtianyi.github.io/">
-  <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=gtianyi&show_icons=true&hide_border=true&count_private=true&hide=stars,issues" />
+  <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=gtianyi&show_icons=true&hide_border=true&count_private=true&hide=stars,issues&rank_icon=github" />
    <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
