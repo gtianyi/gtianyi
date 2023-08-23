@@ -1,7 +1,7 @@
 ### Welcome Guys! 👋
 
-I am Tianyi Gu - A Research Scientist at Motional, US.   
-I become a research scientist by following my passion for AI. 
+I am Tianyi Gu - A Senior Research Scientist at Motional, US.   
+I became a research scientist by following my passion for AI and Robotics. 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gutianyi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gu@cs.unh.edu)
